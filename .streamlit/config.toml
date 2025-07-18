@@ -1,0 +1,18 @@
+[theme]
+# escolhe “light” ou “dark”
+base = "light" 
+
+# cor principal (botões, sliders etc)
+primaryColor = "#FFD800"
+
+# cor de fundo da área principal
+backgroundColor = "#1E1E1E"
+
+# cor de fundo da sidebar
+secondaryBackgroundColor = "#9A9999"
+
+# cor do texto
+textColor = "#FFFFFF"
+
+# fonte: “sans serif”, “serif” ou “monospace”
+font = "sans serif"
